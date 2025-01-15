@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ycm\\programming\\unreal\\second-floor-trio\\trio\\source\\trio\\trio.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ycm\\programming\\unreal\\second-floor-trio\\trio\\intermediate\\build\\win64\\x64\\trioeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ycm\\programming\\unreal\\second-floor-trio\\trio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\trio\\definitions.trio.h",
+            "d:\\ycm\\programming\\unreal\\second-floor-trio\\trio\\source\\trio\\trio.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

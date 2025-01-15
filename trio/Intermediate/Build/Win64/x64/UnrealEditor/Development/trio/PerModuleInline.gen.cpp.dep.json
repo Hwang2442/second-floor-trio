@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ycm\\programming\\unreal\\second-floor-trio\\trio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\trio\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ycm\\programming\\unreal\\second-floor-trio\\trio\\intermediate\\build\\win64\\x64\\trioeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ycm\\programming\\unreal\\second-floor-trio\\trio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\trio\\definitions.trio.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

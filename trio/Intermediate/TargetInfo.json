@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "trio",
+			"Path": "..\\Source\\trio.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "trioEditor",
+			"Path": "..\\Source\\trioEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
